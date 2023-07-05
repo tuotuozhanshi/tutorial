@@ -1,2 +1,4 @@
 连猴子都懂的Git命令
+q
+w
 hello git
